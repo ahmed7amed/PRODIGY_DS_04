@@ -1,0 +1,1 @@
+Analysis Project about No of accident in USA between 2016 and 2023 and factors that affect on severity Explore the full interactive dashboard here https:https://app.powerbi.com/groups/me/reports/13295332-b30e-4fc3-99fd-3a66aa51c891/ReportSectionacaa6693d607b5e46742?experience=power-bi
